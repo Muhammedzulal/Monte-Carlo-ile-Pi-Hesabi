@@ -1,5 +1,5 @@
 # Monte-Carlo-ile-Pi-Hesabi
-Monte carlo yöntemiyle simülasyon üzerinden yaklaşık pi değerini çıkartmayı denediğim python kodu
+Monte carlo yöntemiyle simülasyon üzerinden yaklaşık pi değerini çıkartmayı denediğim kod
 ***********************************
 Deneme sayısı: 10000000
 
